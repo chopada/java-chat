@@ -1,0 +1,6 @@
+com\sales\dao\impl\WelcomeDaoImpl.class
+com\sales\controller\SetTextController.class
+com\sales\service\impl\WelcomeServiceImpl.class
+com\sales\dao\WelcomeDao.class
+com\sales\controller\WelcomeController.class
+com\sales\service\WelcomeService.class
